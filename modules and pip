@@ -1,0 +1,15 @@
+##installing modules
+!
+!conda update conda --yes
+pip install pandas_ui
+!pip install ruamel-yaml
+!pip install ruamel-yaml
+!
+!pip install "jupyter_nbextensions_configurator"
+!
+!pip install "jupyter_nbextensions_configurator"
+pip install openpyxl
+!pip install "jupyter_contrib_nbextensions"
+!jupyter nbextension enable — py qgrid — sys-prefix
+!
+!jupyter nbextension enable — py widgetsnbextension — sys-prefix
